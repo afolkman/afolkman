@@ -9,6 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Software Engineering degree from Western Governor's University.
-- 🌱 I’m currently learning Android app development.
+- 🔭 I graduated in June 2025 with a Software Engineering degree from Western Governor's University (WGU).
+- 🌱 I am a business analyst for my employer's virtual assistant, and help with small engineering stories where I can.
+- 👨🏼‍💻 I am working on building my portfolio and transitioning to a full-time engineering role.
 - 💬 Ask me about anything.
